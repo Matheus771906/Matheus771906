@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Matheus771906
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Matheus771906/Matheus771906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋Olá!Eu sou o Matheus
+
+ Meu nome é Matheus Vinicius, sou um jovem em busca de aprender e seguir uma carreira no mundo da programação e do desenvolvimento de software.👨‍💻Programador BackEnd, no futuro, pretendo ser Fullstack
+
+📫 contato: mathvinicius7@gmail.com
+
+# 🧠Linguagens e Assuntos que estou estudando
+
+🐍Programação em python
+
+☑ Programação em C
+
+👓Desenvolvimento Web
+
